@@ -1,0 +1,18 @@
+{
+  "id": 775,
+  "category": {
+    "id": 0,
+    "name": "hatico"
+  },
+  "name": "hatico",
+  "photoUrls": [
+    "https:s3.amazon.com"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "sdet doggie"
+}

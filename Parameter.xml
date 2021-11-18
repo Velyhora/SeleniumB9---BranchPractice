@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Param Practice">
+    <test name="Scenario One" >
+        <parameter name="school" value="Techtorial"> </parameter>
+        <parameter name="city" value="Chicago"> </parameter>
+       <!-- --> <parameter name="state" value="ILLINOIS"> </parameter>
+        <classes>
+            <class name="selenium.TestNGBasics.ParameterAnnotation">
+
+            </class>
+        </classes>
+    </test>
+</suite>
